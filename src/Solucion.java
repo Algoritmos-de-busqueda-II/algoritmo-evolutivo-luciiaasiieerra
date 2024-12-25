@@ -25,4 +25,8 @@ public class Solucion {
     public void setFitness(int valorFitness) {
         fitness = valorFitness;
     }
+
+    public int getFitness() {
+        return fitness;
+    }
 }
